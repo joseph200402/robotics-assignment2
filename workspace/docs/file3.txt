@@ -1,0 +1,2 @@
+This is file3.
+It contains some sample text.
